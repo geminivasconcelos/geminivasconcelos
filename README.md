@@ -1,4 +1,11 @@
-### Oii, eu sou Gemini Vasconcelos 👋
+### Hey, I'm Gemini 👋
+
+
+- 🌱 I'm currently working with HTML, SCSS, Angular, Typescript<br/>
+- 👩‍💻 I'm currently working as Development Analyst
+- 📕 Computer science student
+- 😄 My Pronouns: She/Her
+
 
 <!--
 **gevasconcelos/gevasconcelos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +22,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 😄 Pronouns: ela(e)/dela(e)
-
 <div align="center">
   <a href="https://github.com/geminivasconcelos">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=geminivasconcelos&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geminivasconcelos&layout=compact&langs_count=7&theme=material-palenight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=geminivasconcelos&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geminivasconcelos&layout=compact&langs_count=7&theme=transparent"/>
 </div>
  
   ##
