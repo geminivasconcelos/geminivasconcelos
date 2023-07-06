@@ -1,7 +1,7 @@
 ### Hey, I'm Gemini 👋
 
 
-- 🌱 I'm currently working with HTML, SCSS, Angular, Typescript<br/>
+- 🌱 I'm currently working with HTML, SCSS, Angular, Typescript, ReactJS
 - 👩‍💻 I'm currently working as Development Analyst
 - 📕 Computer science student
 - 😄 My Pronouns: She/Her
