@@ -2,7 +2,7 @@
 
 
 - 🌱 I'm currently working with HTML, SCSS, Angular, Typescript, ReactJS, Ionic, NestJs
-- 👩‍💻 I'm currently working as Development Analyst
+- 👩‍💻 I'm currently working as Software Developer
 - 📕 Computer science student
 - 😄 My Pronouns: She/Her
 
