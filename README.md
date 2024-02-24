@@ -42,7 +42,7 @@ Here are some ideas to get you started:
    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
     <img align="center" alt = "Ge-Javascript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
     <img align="center" alt = "Ge-NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img align="center" alt = "Ge-NodeJs" src="https://icons8.com.br/icon/9ESZMOeUioJS/carregou"/>
+    <img align="center" alt = "Ge-NodeJs" src="https://icons8.com.br/icon/9ESZMOeUioJS/icons8-carregou-16.png"/>
      <img align="center" alt = "Ge-Angular" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
     <img align="right" alt="Ge-pic" height="150" style="border-radius:50px;" 
 <!--          src="https://cdn.discordapp.com/attachments/930536191563038753/930536632153698444/download20220102152904.png">
