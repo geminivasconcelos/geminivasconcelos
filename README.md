@@ -35,28 +35,28 @@ Here are some ideas to get you started:
   <tr>
     <td valign="top" width="50%">
 
-🟥 <span style="font-size:16px"><b>Front-End</b></span><br>
+<span style="font-size:16px">🔸<b>Front-End</b></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 React<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 HTML5 / CSS3 / SASS<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Tailwind CSS<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Angular / AngularJS<br><br>
 
-🟥 <span style="font-size:16px"><b>Languages</b></span><br>
+<span style="font-size:16px">🔸<b>Languages</b></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Technical English<br><br>
 
-🟥 <span style="font-size:16px"><b>DevOps & Workflow</b></span><br>
+<span style="font-size:16px">🔸<b>DevOps & Workflow</b></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Git / GitHub<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Docker<br>
 
 </td>
 <td valign="top" width="50%">
 
-🟥 <span style="font-size:16px"><b>Back-End & Integrations</b></span><br>
+<span style="font-size:16px">🔸<b>Back-End & Integrations</b></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Node.js<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 NestJS<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Java<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 PostgreSQL<br><br 🔸
-🟥 <span style="font-size: 16px"><b>Agile Methods & Tools</b></span><br>
+&nbsp;&nbsp;&nbsp;&nbsp; 🔸 PostgreSQL
+<span style="font-size: 16px">🔸<b>Agile Methods & Tools</b></span><br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Scrum / Kanban<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Notion / Miro for project management<br>
 &nbsp;&nbsp;&nbsp;&nbsp; 🔸 Figma for interface design<br>
@@ -64,6 +64,9 @@ Here are some ideas to get you started:
 </td>
   </tr>
 </table>
+
+
+
 
 </div>
 
