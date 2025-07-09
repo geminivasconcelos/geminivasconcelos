@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </div>
 -->
  ##
- 🚀 Technology Stack
+#### 🚀 Technology Stack
 
  <div 
  <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
