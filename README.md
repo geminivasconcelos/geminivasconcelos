@@ -29,43 +29,8 @@ Here are some ideas to get you started:
 </div>
  
   ##
-  
-  <div style="display: inline_block" align="center"><br>
- <!-- <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  -->
-<!--     <img align="center" alt = "Ge-Linux"  src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-   <img align="center" alt = "Ge-Git" src="https://img.icons8.com/color/48/000000/git.png"/>
-    <img align="center" alt = "Ge-CSS"  src="https://img.icons8.com/color/48/000000/css3.png"/>
-    <img align="center" alt = "Ge-HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-    <img align="center" alt = "Ge-Javascript" src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-    <img align="center" alt = "Ge-NodeJs" src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-    <img align="center" alt = "Ge-NestJs" src="https://img.icons8.com/color/48/nestjs.png"/>
-     <img align="center" alt = "Ge-Angular" src="https://img.icons8.com/color/50/000000/angularjs.png"/>
-    <img align="right" alt="Ge-pic" height="150" style="border-radius:50px;" 
-<!--          src="https://cdn.discordapp.com/attachments/930536191563038753/930536632153698444/download20220102152904.png">
-     --> 
-   
-   <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/git.png"/>
-   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
-   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-   <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
-   <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
-   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
-   <img src="https://img.icons8.com/color/48/000000/ionic.png"/>
-   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-   
-   
-</div>
+
+
   
  ##
  
