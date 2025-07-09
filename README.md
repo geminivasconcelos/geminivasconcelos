@@ -31,6 +31,33 @@ Here are some ideas to get you started:
  
   ##
 
+<table> <tr> <td valign="top" width="50%">
+🔸 Front-End
+   ● React
+   ● HTML5 / CSS3 / SASS
+   ● Tailwind CSS
+   ● Angular / AngularJS
+
+🔸 Languages
+   ● Technical English
+
+🔸 DevOps & Workflow
+   ● Git / GitHub
+   ● Docker
+
+</td> <td valign="top" width="50%">
+🔸 Back-End & Integrations
+   ● Node.js
+   ● NestJS
+   ● Java
+   ● PostgreSQL
+
+🔸 Agile Methods & Tools
+   ● Scrum / Kanban
+   ● Notion / Miro for project management
+   ● Figma for interface design
+
+</td> </tr> </table>
 
   
  ##
