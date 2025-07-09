@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
  
   ##
-
+<div align="center">
 <table>
   <tr>
     <td valign="top" width="50%">
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 </td>
 </tr>
 </table>
-
+</div>
 
   
  ##
