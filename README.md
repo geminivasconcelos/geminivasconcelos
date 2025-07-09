@@ -28,49 +28,26 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geminivasconcelos&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 -->
- 
- 🚀 Technology Stack
  ##
- <!--
-<div align="center">
-<table>
-  <tr>
-    <td valign="top" width="50%">
+ 🚀 Technology Stack
 
-<span style="font-size:16px">🔸<b>Front-End</b></span><br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 React<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 HTML5 / CSS3 / SASS<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Tailwind CSS<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Angular / AngularJS<br><br>
-
-<span style="font-size:16px">🔸<b>Languages</b></span><br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Technical English<br><br>
-
-<span style="font-size:16px">🔸<b>DevOps & Workflow</b></span><br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Git / GitHub<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Docker<br>
-
-</td>
-<td valign="top" width="50%">
-
-<span style="font-size:16px">🔸<b>Back-End & Integrations</b></span><br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Node.js<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 NestJS<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Java<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 PostgreSQL
-<span style="font-size: 16px">🔸<b>Agile Methods & Tools</b></span><br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Scrum / Kanban<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Notion / Miro for project management<br>
-&nbsp;&nbsp;&nbsp;&nbsp; 🔸 Figma for interface design<br>
-
-</td>
-  </tr>
-</table>
-</div>
--->
-
- 
-  
+ <div 
+ <img src="https://img.icons8.com/color/48/000000/linux--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/git.png"/>
+   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+   <img src="https://img.icons8.com/color/48/000000/sass.png"/>
+   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
+   <img src="https://img.icons8.com/color/48/000000/nestjs.png"/>
+   <img src="https://img.icons8.com/color/48/undefined/python--v1.png"/>
+   <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
+   <img src="https://img.icons8.com/color/48/000000/ionic.png"/>
+   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+ </div>
   <div align="center"> 
 
 <!--   <a href="https://instagram.com/gealvss" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> -->
