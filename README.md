@@ -31,33 +31,41 @@ Here are some ideas to get you started:
  
   ##
 
-<table> <tr> <td valign="top" width="50%">
-🔸 Front-End
-   ● React
-   ● HTML5 / CSS3 / SASS
-   ● Tailwind CSS
-   ● Angular / AngularJS
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-🔸 Languages
-   ● Technical English
+🔸 <b>Front-End</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;● React<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● HTML5 / CSS3 / SASS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Tailwind CSS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Angular / AngularJS<br><br>
 
-🔸 DevOps & Workflow
-   ● Git / GitHub
-   ● Docker
+🔸 <b>Languages</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Technical English<br><br>
 
-</td> <td valign="top" width="50%">
-🔸 Back-End & Integrations
-   ● Node.js
-   ● NestJS
-   ● Java
-   ● PostgreSQL
+🔸 <b>DevOps & Workflow</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Git / GitHub<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Docker<br>
 
-🔸 Agile Methods & Tools
-   ● Scrum / Kanban
-   ● Notion / Miro for project management
-   ● Figma for interface design
+</td>
+<td valign="top" width="50%">
 
-</td> </tr> </table>
+🔸 <b>Back-End & Integrations</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Node.js<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● NestJS<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Java<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● PostgreSQL<br><br>
+
+🔸 <b>Agile Methods & Tools</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Scrum / Kanban<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Notion / Miro for project management<br>
+&nbsp;&nbsp;&nbsp;&nbsp;● Figma for interface design<br>
+
+</td>
+</tr>
+</table>
+
 
   
  ##
