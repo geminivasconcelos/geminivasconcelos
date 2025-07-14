@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 -->
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geminivasconcelos&layout=compact&langs_count=7&theme=transparent"/>
 </div>
+   
  ##
+   
 #### 🚀 Technology Stack
 
  <div 
