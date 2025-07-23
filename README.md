@@ -1,7 +1,7 @@
 ### Hey, I'm Gemini 👋
 
 
-- 🌱 I'm currently working with HTML, SCSS, Angular, Typescript, ReactJS, Ionic, NestJs, SQL
+- 🌱 I'm currently working with HTML, SCSS, Angular, Typescript, React, Ionic, NestJs, SQL
 - 👩‍💻 I'm currently working as Software Developer
 - 📕 Computer science student
 - 😄 My Pronouns: She/Her
@@ -48,7 +48,7 @@ Here are some ideas to get you started:
    <img src="https://img.icons8.com/color/48/000000/angularjs.png"/>
    <img src="https://img.icons8.com/color/48/000000/ionic.png"/>
    <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
  </div>
   <div align="center"> 
 
